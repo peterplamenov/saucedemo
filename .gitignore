@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Test Results
+test-results/
+playwright-report/
+test-results.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.iml
+
+# Environment Files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Screenshots and Videos (if you want to exclude them)
+# screenshots/
+# videos/
