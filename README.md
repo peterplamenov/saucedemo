@@ -1,8 +1,8 @@
-# Lab08 task - Playwright Test Automation Suite
+#  Playwright Test Automation Suite
 
 ## 📋 Overview
 
-This is a comprehensive automated test suite for Lab08 task (https://www.saucedemo.com/) built with Playwright and JavaScript. The project implements the Page Object Model (POM) design pattern and includes both positive and negative test scenarios for:
+The project implements the Page Object Model (POM) design pattern and includes both positive and negative test scenarios for:
    ● Login functionality
    ● Adding products to the cart 
    ● Completing checkout 
