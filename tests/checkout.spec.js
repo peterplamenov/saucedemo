@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
-const { ProductsPage } = require('../pages/ProductsPage');
-const { CartPage } = require('../pages/CartPage');
-const { CheckoutPage } = require('../pages/CheckoutPage');
+const { LoginPage } = require('../pages/loginPage');
+const { ProductsPage } = require('../pages/productsPage');
+const { CartPage } = require('../pages/cartPage');
+const { CheckoutPage } = require('../pages/checkoutPage');
 const users = require('../data/users');
 const { names } = require('../data/products');
 const { customers, invalid } = require('../data/checkout');
